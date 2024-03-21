@@ -7,7 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Maria Clara de Sousa Silva</Text>
       <Text>Primeira Prova DDm lado B</Text>
-      <Button title='salvar'></Button>
+      
    
       <StatusBar style="auto" />
     </View>
